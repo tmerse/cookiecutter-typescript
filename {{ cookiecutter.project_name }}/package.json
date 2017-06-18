@@ -1,0 +1,22 @@
+{
+  "name": "{{cookiecutter.project_name}}}",
+  "version": "0.0.1",
+  "description": "{{cookiecutter.description}}",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.project_name}}.git"
+  },
+  "homepage": "https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.project_name}}#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.29"
+  },
+  "keywords": [],
+  "author": "{{cookiecutter.your_name}} <{{cookiecutter.your_email}}> ({{cookiecutter.your_website}})",
+  "license": "UNLICENSED"
+}

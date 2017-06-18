@@ -1,0 +1,31 @@
+{
+    "compilerOptions": {
+        // "module": "amd",
+        // "module": "commonjs",
+        // "module": "system",
+        "target": "es5",
+        "lib": ["es5", "es2015.core", "es2015.promise"],
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+
+        //"outFile": "../../built/local/tsc.js",
+        "sourceMap": true,
+        // "types": [
+        //     "node",
+        //     "yargs",
+        //     "lodash"
+        // ],
+        "outDir": "dist"
+    },
+    "include": [
+        "src/**/*.ts"
+        // "src/index.ts"
+    ],
+    "exclude": [
+        "node_modules",
+        "**/*.spec.ts"
+    ]
+    // "suppressExcessPropertyErrors": true,
+    // "suppressImplicitAnyIndexErrors": true
+}

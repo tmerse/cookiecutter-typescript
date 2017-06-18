@@ -17,6 +17,6 @@
     "@types/node": "^7.0.29"
   },
   "keywords": [],
-  "author": "{{cookiecutter.your_name}} <{{cookiecutter.your_email}}> ({{cookiecutter.your_website}})",
+  "author": "{{cookiecutter.full_name}} <{{cookiecutter.email}}> ({{cookiecutter.website}})",
   "license": "UNLICENSED"
 }

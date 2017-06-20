@@ -4,5 +4,6 @@
   "full_name": "",
   "website": "",
   "email": "",
-  "github_username": ""
+  "github_username": "",
+  "license": ["MIT", "BSD-3", "GNU GPL v3.0", "Apache Software License 2.0", "Not open source"]
 }

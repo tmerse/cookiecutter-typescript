@@ -1,0 +1,7 @@
+{
+  "name": "{{cookiecutter.project_name}}",
+  "script": "dist/app.js",
+  "watch": ["dist/"],
+  "ignore_watch": ["node_modules", "data", "logs"],
+  "restart_delay": 1000
+}

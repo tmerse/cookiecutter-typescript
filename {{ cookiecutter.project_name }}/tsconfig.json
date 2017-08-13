@@ -8,7 +8,6 @@
         "noImplicitAny": true,
         "removeComments": true,
         "preserveConstEnums": true,
-
         //"outFile": "../../built/local/tsc.js",
         "sourceMap": true,
         // "types": [
@@ -20,7 +19,6 @@
     },
     "include": [
         "src/**/*.ts"
-        // "src/index.ts"
     ],
     "exclude": [
         "node_modules",
